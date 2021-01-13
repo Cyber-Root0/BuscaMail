@@ -1,11 +1,11 @@
-# BuscaMail
+# BuscaMail - Ferramenta Osint Organizacional
 
 ## INTRODUÇÃO:
 
-BuscaMail - Ferramenta Osint/Busca de Emails Automaticas
+BuscaMail - Ferramenta Osint/Busca de Emails Automaticas Utilizando se da Linguagem PHP, Junto com Api Privada.
 
 ## INTERFACE:
-![INterface](https://github.com/Cyber-Root0/Deface-Hacking/blob/main/Midia/Capturar.PNG)
+![Interface](https://github.com/Cyber-Root0/Deface-Hacking/blob/main/Midia/Capturar.PNG)
 
 
 
